@@ -37,3 +37,10 @@ from that set in the database and then repopulate the entire set
 ### UpdateDB
 Will attempt to bring the DB up to date.  WARNING: can have a significant run time for first time use.  Intended use is for continued database maintenance as new sets are released.
 
+
+## TODO's
+
+* Add Format legality
+* correct double ' character issue in DB
+* add card rulings
+* add TCG price data
